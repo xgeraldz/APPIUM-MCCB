@@ -2,5 +2,6 @@
     "java.compile.nullAnalysis.mode": "automatic",
     "java.configuration.updateBuildConfiguration": "automatic",
     "java.dependency.packagePresentation": "hierarchical",
-    "maven.view": "hierarchical"
+    "maven.view": "hierarchical",
+    "java.dependency.syncWithFolderExplorer": false
 }
